@@ -1,6 +1,6 @@
 # Hi, I'm Sachin 👋
 
-Technical Support Engineer (L2/L3) working on Linux, networking and cloud infrastructure for a live-broadcast platform. CEH certified. I'm building towards Cloud Support / Cloud Ops / Junior DevOps roles, and I'm learning in public by turning my day-to-day support work into small, tested projects.
+Technical Support Engineer (L2/L3) working on Linux, networking and cloud infrastructure for a live-broadcast platform. I'm building towards Cloud Support / Cloud Ops / Junior DevOps roles, and I'm learning in public by turning my day-to-day support work into small, tested projects.
 
 I build with AI tools (mainly Claude) and check what they produce with tests, CI and code review. [LogSentinel's AI notes](https://github.com/bhatiasachin964-dot/log-sentinel/blob/main/AI_NOTES.md) show where the AI was right, where it was wrong, and how that was caught.
 
